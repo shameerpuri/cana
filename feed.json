@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "canabis.spss.com",
+    "description": "",
+    "home_page_url": "https://github.com/shameerpuri/cana",
+    "feed_url": "https://github.com/shameerpuri/cana/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shameer"
+    },
+    "items": [
+        {
+            "id": "https://github.com/shameerpuri/cana/try.html",
+            "url": "https://github.com/shameerpuri/cana/try.html",
+            "title": "try",
+            "author": {
+                "name": "shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-05T18:20:10+05:30",
+            "date_modified": "2021-05-05T18:20:10+05:30"
+        }
+    ]
+}
